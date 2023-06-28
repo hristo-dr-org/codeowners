@@ -1,0 +1,4 @@
+/test @hristo-dr-org/test
+/backend @hristo-dr-org/backend
+/frontend @hristo-dr-org/frontend
+/misc @hristo-dr-org/frontend @hristo-dr-org/backend
